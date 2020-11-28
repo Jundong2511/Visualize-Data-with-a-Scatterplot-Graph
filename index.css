@@ -1,0 +1,31 @@
+.svg{
+    
+}
+#tooltip{
+    position: absolute;
+    width:200px;
+    height:100px;
+    z-index:999;
+    background-color:#82A3C4;
+    font-size: 12px;
+    line-height: 1.3;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: center;
+    text-align: center;
+}
+.container{
+    display:flex;
+   
+}
+.g-doping{
+       max-height:20px;
+}
+text{
+    display:inline-block;
+    position: relative;
+}
+rect{
+    display:inline-block;
+}
